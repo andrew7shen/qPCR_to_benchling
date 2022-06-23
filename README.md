@@ -1,4 +1,4 @@
-# qPCR_pipeline_to_benchling
+# qPCR_to_benchling
 Andrew Shen
 06/23/2022
 
